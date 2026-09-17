@@ -1,0 +1,11 @@
+PAQUETE DE LICENCIA PARA LIBERGIA1
+
+1. Copiá tus archivos LIBERGIA1.ttf y/o LIBERGIA1.woff2 dentro de esta carpeta.
+2. Conservá OFL.txt junto con la fuente cuando la distribuyas.
+3. README.md explica autoría, licencia y uso.
+4. FONTLOG.txt sirve para registrar cada nueva versión.
+5. Si publicás la fuente en GitHub/GitLab, subí esta carpeta completa y hacé un primer release etiquetado, por ejemplo: v1.0.
+6. Si no querés reservar el nombre LIBERGIA1, eliminá la frase "with Reserved Font Name LIBERGIA1." de OFL.txt y ajustá README.md/FONTLOG.txt antes de publicar.
+
+IMPORTANTE:
+La OFL se aplica por decisión del titular de los derechos. No hay que "subirla a SIL" ni esperar aprobación de SIL.

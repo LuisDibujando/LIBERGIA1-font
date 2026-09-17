@@ -1,0 +1,32 @@
+FONTLOG for LIBERGIA1
+=====================
+
+This file records changes to the LIBERGIA1 font project.
+
+Author / Copyright Holder
+-------------------------
+Luis Paredes
+Copyright (c) 2026 Luis Paredes
+
+License
+-------
+SIL Open Font License, Version 1.1
+Reserved Font Name: LIBERGIA1
+
+Version 1.0 - 2026
+------------------
+- Initial public release of LIBERGIA1.
+- Typeface created specifically for the LIBERGIA project.
+- Initial distribution prepared under SIL Open Font License 1.1.
+- Reserved Font Name declared: LIBERGIA1.
+
+Future changes
+--------------
+For every public update, add:
+- version number
+- release date
+- summary of glyph changes
+- spacing or kerning changes
+- technical fixes
+- file-format changes
+- contributor credits, if applicable
