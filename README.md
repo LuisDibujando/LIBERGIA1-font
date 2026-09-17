@@ -1,4 +1,7 @@
 # LIBERGIA1
+## Versión estable
+
+Última versión estable: [v1.0](https://github.com/LuisDibujando/LIBERGIA1-font/releases/tag/v1.0)
 
 **LIBERGIA1** es una tipografía creada por **Luis Paredes** en 2026 para el proyecto **LIBERGIA**.
 
